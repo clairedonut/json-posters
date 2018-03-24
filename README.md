@@ -6,8 +6,11 @@ Webpage design replicated from Junique.com.
 ## Key elements
 
 * A Filter & Sort system to only display posters that match various criteria.
--> Users can sort posters by price or popularity (in reality returns array randomly as data set is not included in JSON).
+
+-> Users can sort posters by price or popularity.  
+
 -> Users can filter posters by theme or style. The selected criteria will then be matched to case in a switch statement which will then query the arrays according to set condition and return the posters that match that condition.  
+
 -> All posters in dataset are displayed by default
 
 * A Search bar that returns posters based on match.
@@ -20,4 +23,4 @@ The Toast notification was modified to match the website look & feel. Furthermor
 
 * Poster images change when user hovers on image.
 
-![Preview page](https://github.com/clairedonut/json_posters/blob/master/preview.png)
+![Preview page](https://github.com/clairedonut/json-posters/blob/master/preview.png?raw=true)
